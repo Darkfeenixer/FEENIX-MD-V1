@@ -12,7 +12,7 @@
 ### Setup
 
 **📌DEPLOY ON HEROKU**
-   - ***Click [`FORK`](https://github.com/feenixmd/feenixmd/fork) and `Star ⭐ Repository` for Courage.***
+   - ***Click [`FORK`](https://github.com/feenixmd/FEENIX-MD-V1/fork) and `Star ⭐ Repository` for Courage.***
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
 </p>
@@ -29,14 +29,14 @@
 
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Purnageethanajana/FEENIX-MD/)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/feenixmd/FEENIX-MD-V1/)
 
    </details>
 </P>
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurnageethanjana%2FDEXTER-V1-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![forks](https://img.shields.io/github/forks/Purnageethanjana/FEENIX-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/feenixmd/FEENIX-MD-V1?label=Forks&style=social)
 
 
 
