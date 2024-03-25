@@ -29,14 +29,14 @@
 
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Purnageethanajana/DEXTER-V1-MD/)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Purnageethanajana/FEENIX-MD/)
 
    </details>
 </P>
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurnageethanjana%2FDEXTER-V1-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![forks](https://img.shields.io/github/forks/Purnageethanjana/DEXTER-V1-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/Purnageethanjana/FEENIX-MD?label=Forks&style=social)
 
 
 
@@ -46,10 +46,10 @@ Contributions to Dexter-Md are welcome! If you have ideas for new features, impr
 
 ## License
 
-The DEXTER-MD is released.
+The FEENIX-MD is released.
 
-Enjoy the diverse features of the DEXTER-MD  to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the FEENIX-MD  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-- [**WhatsApp**](https://wa.me/94789958225)
+- [**WhatsApp**](https://wa.me/94722807735)
 
